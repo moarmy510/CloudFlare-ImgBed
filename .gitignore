@@ -10,3 +10,8 @@ node_modules
 .kiro/
 .vscode/
 .claude/
+
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
